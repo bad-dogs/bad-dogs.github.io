@@ -34,11 +34,11 @@ header nav{
     flex-direction: row;
     text-align: center;
     padding-bottom: 25px;
-    padding: 5px;
+    padding: 1px;
 }
 
 header a{
-    padding: 15px 40px;
+    padding: 15px 10px;
     text-decoration: none;
     color: black;   
 }
