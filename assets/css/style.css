@@ -89,7 +89,26 @@ header a:hover{
 }
 
 footer{
-    background-color: rgba(222, 222, 222, 0.384);
+    background-color: rgba(222, 222, 222, 0.380);
     padding: 1%;
     font-weight: bold;
+}
+
+.login-card{
+    background-color: rgba(222, 222, 222, 0.380);
+    padding: 5rem;
+    
+}
+
+.textBox{
+    width: auto;
+    height: auto;
+    font-size: medium;
+    max-width: fit-content;
+    max-height: fit-content;
+}
+
+.img-subhero{
+    width: 110%;
+
 }
